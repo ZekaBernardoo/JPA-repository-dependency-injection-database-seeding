@@ -1,0 +1,5 @@
+package com.educ.course.entities;
+
+public class User {
+
+}

@@ -1,0 +1,5 @@
+package com.educ.course.repositories.config;
+
+public class TesteConfig {
+
+}

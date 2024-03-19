@@ -1,0 +1,5 @@
+package com.educ.course.repositories;
+
+public class UserRepository {
+
+}

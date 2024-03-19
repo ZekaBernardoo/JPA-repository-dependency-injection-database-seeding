@@ -1,0 +1,14 @@
+package com.educ.course.repositories.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import com.educ.course.repositories.UserRepository;
+
+@Configuration
+@Profile("test")
+public class TesteConfig {
+	private UserRepository userRepository;
+	
+
+}
