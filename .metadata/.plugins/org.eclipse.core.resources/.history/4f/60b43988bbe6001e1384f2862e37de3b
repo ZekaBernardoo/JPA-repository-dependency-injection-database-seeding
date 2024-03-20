@@ -1,0 +1,5 @@
+package com.educ.course.entities.enums;
+
+public enum OrderStatus {
+
+}
